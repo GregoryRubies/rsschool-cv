@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: fit-content;
+}
